@@ -4,6 +4,8 @@
 ## Data Summary
 The data contains temperature readings for a vast date range, from 1750 to 2015. This dataset specifically covers the global temperature combined, rather than solely the sea or land temperature. This was chosen because of the amount of comparitive analysis available on global combined temperature rather than the other two options in isolation.
 
+Source: http://berkeleyearth.org/data/
+
 ## Problem Statement
 Devastating environmental damage will only increase as the climate continues to change. It is (generally) proven that the climate is changing for the worse, but that isn't the main problem that was addressed with this piece of analysis. In this analysis, I wanted to be able to train a machine learning model that would tell us what the average temperature will be in 10, 50 or 100 years' time, so that we can map these temperatures back to the devastating effects of even a small amount of average temperature change.
 
